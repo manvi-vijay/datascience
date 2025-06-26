@@ -2,7 +2,6 @@
 HealthTech Risk Prediction System
 Main analysis script for cardiovascular disease risk prediction
 Author: Manvi
-Date: 2025
 """
 
 import pandas as pd
